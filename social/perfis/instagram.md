@@ -36,6 +36,11 @@ O campo "Nome" do Instagram entra na busca — deve conter a palavra-chave.
 - Não usar foto do Felipe no avatar: a marca é ChapterIA; o Felipe aparece **no
   conteúdo** (autoridade em 1ª pessoa), não como logo.
 
+**Arquivos gerados:** [`assets/avatar-instagram-RECOMENDADO.png`](assets/avatar-instagram-RECOMENDADO.png)
+(fundo Azul Petróleo + logo negativo, 1080×1080). Alternativas em `assets/`:
+`avatar_paraquedista.png`, `avatar_branco.png`, `avatar_gradiente.png`.
+Comparativo com preview circular: `assets/avatar_preview.png`.
+
 ### Bio (máx. 150 caracteres)
 **Versão recomendada:**
 ```

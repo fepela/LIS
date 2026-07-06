@@ -42,18 +42,29 @@ O campo "Nome" do Instagram entra na busca — deve conter a palavra-chave.
 Comparativo com preview circular: `assets/avatar_preview.png`.
 
 ### Bio (máx. 150 caracteres)
-**Versão recomendada:**
-```
-IA aplicada ao mundo real — sem enrolação.
-Tutoriais de IA, agentes e automação toda semana.
-Comece pelos posts fixos 👇
-```
-Alternativas:
-- `Aprenda a usar IA na prática: produtividade, agentes e automação. Conteúdo novo toda semana. Comece aqui 👇`
-- `A IA que abre novas portas pra você. Tutoriais práticos p/ aplicar no trabalho e no negócio. Link abaixo 👇`
 
-Diretrizes da bio: sem "guru", sem promessa de dinheiro fácil, verbo de ação,
-deixa claro a frequência ("toda semana") e direciona (posts fixos / link).
+A bio **não repete "ChapterIA"** — o nome já aparece no `@` e no campo Nome
+(`ChapterIA · IA na prática`). Estrutura ideal: *o que é + diferencial → motivo
+pra seguir (frequência) → direção (posts fixos / link)*.
+
+**✅ Opção A — Recomendada** (115 caracteres):
+```
+IA aplicada ao mundo real, sem teoria vazia.
+Tutoriais, agentes e automação toda semana.
+Comece pelos posts fixos 📌
+```
+
+Alternativas:
+- **B · Link-forward** (98): `Aprenda a usar IA de verdade no trabalho e no negócio.` / `Conteúdo prático toda semana.` / `Comece aqui 👇`
+- **C · Autoridade** (93): `IA aplicada ao mundo real, por Felipe Pelá.` / `Tutoriais de produtividade, agentes e automação 👇`
+- **D · Punchy** (80): `A IA que você aplica no dia seguinte.` / `Tutoriais práticos toda semana. Sem guru 👇`
+- **E · 3 territórios** (87): `Use IA na sua empresa, na sua carreira e na sua renda.` / `Tutoriais práticos toda semana 👇`
+
+Diretrizes: sem "guru", sem promessa de dinheiro fácil, verbo de ação, frequência
+explícita ("toda semana") e uma direção clara. Emoji no máximo 1, no fim.
+
+> Dica de formatação: o Instagram só aceita quebras de linha se você **colar** o
+> texto já quebrado (edite num app de notas e cole), ou editar pela versão web.
 
 ### Link
 - Enquanto não houver página de captura: link direto para conhecer a ChapterIA `[LINK]`.

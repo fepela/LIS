@@ -26,10 +26,10 @@ O campo "Nome" do Instagram entra na busca — deve conter a palavra-chave.
 ### Categoria
 `Educação` (Conta profissional). Alternativa: `Produto/serviço educacional`.
 
-### Foto de perfil
-- Logo na **versão negativa** sobre fundo **Azul Paraquedista `#18A3B7`** (ou
-  Azul Petróleo `#1A334A`), wordmark `chapterIA` centralizado e o maior possível
-  dentro do círculo.
+### Foto de perfil ✅ DEFINIDO
+- **Oficial:** fundo **Azul Petróleo `#1A334A`** + logo na **versão negativa**
+  (branco + `IA` ciano), wordmark centralizado. Arquivo:
+  [`assets/avatar-instagram-OFICIAL.png`](assets/avatar-instagram-OFICIAL.png) (1080×1080).
 - **Testar a legibilidade em tamanho pequeno** (o feed mostra ~40px). Se o
   wordmark ficar ilegível, aumentar o corpo e reduzir margem — **sem** alterar,
   girar ou remover o `IA` (regra do brandbook).

@@ -4,11 +4,20 @@
 (`c2_01.png` … `c2_10.png`). Objetivo: mostrar que a ChapterIA é um **método
 estruturado** (não só um curso), despertando interesse em conhecer pela bio.
 
-> **Direção de arte:** dark premium (Azul Petróleo→Profundo), textura de grid
-> pontilhado, glow ciano, ícones minimalistas de traço desenhados por tema,
-> muito respiro. Fonte de render: **Poppins** (stand-in da Google Sans — a arte
-> final oficial deve usar Google Sans). Descrições **extraídas do site oficial**,
-> mesma ordem, sem inventar módulos.
+> **Direção de arte (v2 — imagens):** capa e CTA em dark premium (Petróleo→Profundo);
+> os slides de capítulo e o bônus usam **imagens temáticas full-bleed** (fornecidas
+> pelo Felipe) com degradê Azul Petróleo na base + texto por cima — mesmo
+> tratamento do slide "Quem conduz". Fonte de render: **Poppins** (stand-in da
+> Google Sans — arte final oficial deve usar Google Sans). Descrições **do site
+> oficial**, mesma ordem, sem inventar módulos.
+>
+> **Imagens fonte:** [`assets/carrossel-02-capitulos/fontes-imagens/`](assets/carrossel-02-capitulos/fontes-imagens/)
+> (cap1 workflow · cap2 Lovable · cap3 ciborgue · cap4 prompt · cap5 persona ·
+> cap6 perfil IG · cap7 site ChapterIA · bônus Meta).
+>
+> ⚠️ **A conferir:** seguindo a ordem enviada, a **persona jovem** ficou no
+> Cap 5 (Social Media) e o **perfil do Instagram** no Cap 6 (Influencer). Pelo
+> tema podem estar trocados — trocar cap5/cap6 é 1 ajuste se o Felipe confirmar.
 
 ## Copy por slide
 

@@ -11,13 +11,10 @@ estruturado** (não só um curso), despertando interesse em conhecer pela bio.
 > Google Sans — arte final oficial deve usar Google Sans). Descrições **do site
 > oficial**, mesma ordem, sem inventar módulos.
 >
-> **Imagens fonte:** [`assets/carrossel-02-capitulos/fontes-imagens/`](assets/carrossel-02-capitulos/fontes-imagens/)
-> (cap1 workflow · cap2 Lovable · cap3 ciborgue · cap4 prompt · cap5 persona ·
-> cap6 perfil IG · cap7 site ChapterIA · bônus Meta).
->
-> ⚠️ **A conferir:** seguindo a ordem enviada, a **persona jovem** ficou no
-> Cap 5 (Social Media) e o **perfil do Instagram** no Cap 6 (Influencer). Pelo
-> tema podem estar trocados — trocar cap5/cap6 é 1 ajuste se o Felipe confirmar.
+> **Imagens fonte → capítulo (final):** cap1 workflow · cap2 Lovable ·
+> cap3 ciborgue · cap4 prompt · **cap5 perfil do Instagram (Social Media)** ·
+> **cap6 persona (Influencer Digital)** · cap7 site ChapterIA · bônus Meta.
+> Os arquivos em `fontes-imagens/` mantêm o nome original de origem.
 
 ## Copy por slide
 

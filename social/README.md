@@ -1,8 +1,11 @@
 # Central de Social Media — ChapterIA
 
 Este diretório concentra tudo que orienta a comunicação da ChapterIA nas redes:
-guia de marca aplicado ao social, linha editorial, campanha de lançamento e
-posts prontos para publicar.
+direção editorial, linha editorial, campanha de lançamento e posts prontos.
+
+> **Direção editorial oficial:** [`../CLAUDE.md`](../CLAUDE.md) na raiz.
+> É o system prompt do agente de social e **governa toda produção**. Em conflito,
+> ele vence. Leia antes de criar qualquer peça.
 
 > **Frase central da marca**
 > *7 capítulos práticos para aplicar Inteligência Artificial no mundo real —
@@ -12,18 +15,20 @@ posts prontos para publicar.
 
 | Arquivo | O que é |
 |---|---|
-| [`referencia/guia-social.md`](referencia/guia-social.md) | Marca, cores, tom de voz e regras de uso condensados para social |
-| [`referencia/linha-editorial.md`](referencia/linha-editorial.md) | Pilares de conteúdo + calendário editorial de 30 dias |
-| [`campanha/lancamento.md`](campanha/lancamento.md) | Sequência de posts da campanha de lançamento (cupom 50%) |
+| [`../CLAUDE.md`](../CLAUDE.md) | **System prompt / direção editorial oficial** (pilares, prioridade, tom, estratégia por rede) |
+| [`referencia/guia-social.md`](referencia/guia-social.md) | Marca, cores, tom de voz e regras de logo/visual |
+| [`referencia/linha-editorial.md`](referencia/linha-editorial.md) | Pilares operacionalizados + calendário editorial de 30 dias |
+| [`campanha/lancamento.md`](campanha/lancamento.md) | Campanha de lançamento (cupom 50%) — dentro das regras de CLAUDE.md |
 | [`posts/instagram.md`](posts/instagram.md) | Legendas + roteiros de Reels prontos para Instagram |
-| [`posts/linkedin.md`](posts/linkedin.md) | Posts prontos para LinkedIn (tom executivo/B2B) |
+| [`posts/linkedin.md`](posts/linkedin.md) | Posts prontos para LinkedIn (tom de jornada, 1ª pessoa) |
 
 ## Como usar
 
-1. Antes de escrever qualquer post, releia o **tom de voz** em `referencia/guia-social.md`.
-2. Escolha o pilar e o formato no **calendário** de `referencia/linha-editorial.md`.
-3. Pegue o texto pronto em `posts/` ou `campanha/` e ajuste datas/links.
-4. Toda peça visual deve respeitar as **cores e regras de logo** do brandbook.
+1. Leia a direção editorial em [`../CLAUDE.md`](../CLAUDE.md) — é a regra que vence.
+2. Confirme o **visual e o tom** em `referencia/guia-social.md`.
+3. Escolha o **pilar e o formato** no calendário de `referencia/linha-editorial.md`.
+4. Pegue o texto pronto em `posts/` ou `campanha/` e ajuste datas/links.
+5. Teste toda peça com: *"Isso ensina algo útil?"* Se não, não publica.
 
 ## Definições em aberto
 

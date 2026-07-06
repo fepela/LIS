@@ -1,7 +1,9 @@
 # Guia de Marca para Social — ChapterIA
 
-Referência rápida para produzir conteúdo consistente. Sempre que houver dúvida
-de tom ou visual, este arquivo vence.
+Referência de **marca, visual e oferta**. A direção editorial (pilares,
+prioridade, estratégia por rede, tom) está em [`../../CLAUDE.md`](../../CLAUDE.md)
+e prevalece. Este arquivo cobre o lado visual e comercial que o system prompt
+não detalha.
 
 ## Posicionamento em uma frase
 

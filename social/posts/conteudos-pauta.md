@@ -132,6 +132,9 @@ Artes: `assets/pauta/08-caso-cachorra-01..07.png`.
 
 # Lote 2 — pautas com fonte/imagem (Reuters / The Guardian)
 
+> ✅ **STATUS: os 5 carrosséis foram finalizados** (fotos geradas por IA + composição).
+> Artes em `assets/pauta/lote2-final/` (`L2F_pX_YY.png`) e mosaicos `L2F_pX_sheet.png`.
+
 > ⚠️ **Imagens:** os arquivos precisam ser **anexados no chat** (a rede do ambiente
 > bloqueia reuters.com e i.guim.co.uk). Cada capa usa a foto da respectiva notícia
 > no template foto-ready. **Licenciamento:** fotos de agência exigem licença —

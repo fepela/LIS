@@ -20,15 +20,15 @@ direção editorial, linha editorial, campanha de lançamento e posts prontos.
 | [`referencia/guia-social.md`](referencia/guia-social.md) | Marca, cores, tom de voz e regras de logo/visual |
 | [`referencia/linha-editorial.md`](referencia/linha-editorial.md) | Pilares operacionalizados + calendário editorial de 30 dias |
 | [`campanha/lancamento.md`](campanha/lancamento.md) | Campanha de lançamento (cupom 50%) — dentro das regras de CLAUDE.md |
-| [`posts/instagram.md`](posts/instagram.md) | Legendas + roteiros de Reels prontos para Instagram |
-| [`posts/linkedin.md`](posts/linkedin.md) | Posts prontos para LinkedIn (tom de jornada, 1ª pessoa) |
+| [`posts/`](posts/) | **Posts finalizados — uma pasta por publicação** (índice em `posts/README.md`) |
+| [`posts/biblioteca-legendas/`](posts/biblioteca-legendas/) | Bancos de legenda prontos para Instagram e LinkedIn |
 
 ## Como usar
 
 1. Leia a direção editorial em [`../CLAUDE.md`](../CLAUDE.md) — é a regra que vence.
 2. Confirme o **visual e o tom** em `referencia/guia-social.md`.
 3. Escolha o **pilar e o formato** no calendário de `referencia/linha-editorial.md`.
-4. Pegue o texto pronto em `posts/` ou `campanha/` e ajuste datas/links.
+4. Pegue a arte + legenda pronta na pasta do post em `posts/` e ajuste datas/links.
 5. Teste toda peça com: *"Isso ensina algo útil?"* Se não, não publica.
 
 ## Definições em aberto

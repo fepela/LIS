@@ -1,5 +1,12 @@
 # Conteúdos de pauta (notícias de IA) — fundo branco
 
+> 📁 **Organização:** os posts finalizados agora vivem em pastas próprias
+> (`pauta-01-claude-science/` … `pauta-05-microsoft-carreira/`, e os carrosséis
+> institucionais em `carrossel-0X-*/`). Este arquivo é o **backlog/notas** de
+> pauta (copy, prompts de imagem e fluxo de geração). Caminhos de `assets/`
+> citados abaixo são históricos.
+
+
 Linha de conteúdo reativa às notícias de IA. Regra que rege (de [`../../CLAUDE.md`](../../CLAUDE.md)):
 **notícia só entra com aplicação prática** — cada peça responde "como isso ajuda
 quem acompanha a ChapterIA?". Sem sensacionalismo; rumores enquadrados como

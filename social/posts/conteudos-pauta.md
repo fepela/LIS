@@ -9,6 +9,16 @@ Azul Petróleo, destaques em Paraquedista/Ciano (marca-texto). Render em Poppins
 
 Assets em [`assets/pauta/`](assets/pauta/).
 
+
+## Integração de geração de imagem (Google Imagen 4)
+- Imagens realistas agora são **geradas direto no ambiente** via API do Google
+  (Imagen 4), a única acessível pela política de rede. Requer billing ativo.
+- Gerador reutilizável (fora do repo): `scratchpad/genimg.py` (prompts em json).
+- **Sempre rotular as artes como "Imagem ilustrativa · IA"** — a foto NÃO é da
+  agência; a fonte da *notícia* (Reuters/Guardian) vai só na legenda.
+- Capas do Lote 2 geradas: `assets/pauta/lote2-gerado/` (`L2-*.png` originais,
+  `capa-0X.png` compostas).
+
 ## Direção visual (atualizada)
 - **Fundo branco limpo**, sem gradiente atrás do logo.
 - **Foto realista por assunto** no topo (layout foto-ready). Exemplo de layout:

@@ -1,0 +1,41 @@
+name: Publicar no Instagram
+
+# Publicação manual (botão "Run workflow"). Nada é postado automaticamente.
+on:
+  workflow_dispatch:
+    inputs:
+      post_path:
+        description: "Pasta do post (ex.: social/posts/2026-07-07/01-claude-sonnet5)"
+        required: true
+        type: string
+      dry_run:
+        description: "Só testar (resolve URLs das imagens, não publica)"
+        required: false
+        default: false
+        type: boolean
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        run: pip install requests
+
+      - name: Publicar
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          # Para repositório PÚBLICO, descomente a linha abaixo para usar as URLs raw
+          # do GitHub (mais simples). Para repositório PRIVADO, deixe comentado:
+          # o script faz upload temporário das imagens para um host público.
+          # RAW_BASE: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}
+        run: |
+          FLAG=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then FLAG="--dry-run"; fi
+          python publish/instagram_publish.py "${{ inputs.post_path }}" $FLAG

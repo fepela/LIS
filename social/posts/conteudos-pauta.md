@@ -9,6 +9,38 @@ Azul Petróleo, destaques em Paraquedista/Ciano (marca-texto). Render em Poppins
 
 Assets em [`assets/pauta/`](assets/pauta/).
 
+## Direção visual (atualizada)
+- **Fundo branco limpo**, sem gradiente atrás do logo.
+- **Foto realista por assunto** no topo (layout foto-ready). Exemplo de layout:
+  `assets/pauta/demos-foto-ready/exemplo-cover-foto-ready.png`.
+- As fotos são **geradas pelo Felipe** (como no carrossel #02) e compostas aqui.
+
+### Briefing de imagens (prompts prontos)
+Estilo comum (usar em todas, para coesão): *fotografia realista, luz natural
+suave, paleta com azuis frios discretos, clima limpo e moderno, sem texto
+legível, sem logotipos de terceiros, proporção 4:3.*
+
+- **#1 Claude/trabalho:** escritório moderno minimalista; laptop com uma interface
+  de agente de IA executando tarefas/fluxo; clima executivo, detalhes em azul.
+- **#8 Caso da cachorra:** cena acolhedora em casa, luz quente; pessoa no sofá com
+  um cachorro ao lado, segurando celular/notebook; emoção de cuidado.
+- **#10 Delegar:** flat lay de mesa de trabalho; mãos digitando, monitor com uma
+  automação rodando sozinha, café e caderno; minimalista, tons neutros.
+- **#2 Governo EUA:** prédio institucional/mesa de reunião séria com uma tela de
+  dados/IA ao fundo; tom sóbrio, azul-acinzentado.
+- **#3 OpenAI infraestrutura:** data center / servidores com bandeira dos EUA
+  desfocada ao fundo; escala e importância nacional.
+- **#4 ChatGPT superapp:** smartphone com vários apps/ícones convergindo em um só;
+  ideia de central de trabalho; limpo, moderno.
+- **#5 Manus x China/Meta:** tabuleiro de xadrez ou mapa-múndi com peças de tech;
+  metáfora de disputa geopolítica; sóbrio.
+- **#6 Manus recompra:** linha do tempo/handshake corporativo desfeito e refeito;
+  clima de negociação.
+- **#7 Perplexity Comet:** navegador moderno numa tela respondendo em vez de listar
+  links; foco em busca conversacional.
+- **#9 DeepMind/ética:** pessoa pensativa (filósofo) diante de uma tela com rede
+  neural sutil; clima reflexivo, luz suave.
+
 ## Status das 10 pautas
 
 | # | Tema | Formato | Status |

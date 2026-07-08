@@ -19,12 +19,6 @@ Cada post tem a **sua própria pasta**, com as artes finais numeradas
 | [`pauta-04-deepmind-etica/`](pauta-04-deepmind-etica/) | DeepMind, ética e o filósofo | 7 |
 | [`pauta-05-microsoft-carreira/`](pauta-05-microsoft-carreira/) | Microsoft, IA e carreira | 6 |
 
-## Lotes datados
-| Pasta | Tema | Posts |
-|---|---|---|
-| [`2026-07-07/`](2026-07-07/) | Pautas com slides densos (notícias aplicadas) | 10 |
-| [`2026-07-08/`](2026-07-08/) | Ferramentas: Claude, Magnific, Lovable, NotebookLM, Google, Batalha de IAs | 6 |
-
 ## Outros
 - [`biblioteca-legendas/`](biblioteca-legendas/) — bancos de legenda para Instagram e LinkedIn.
 - [`conteudos-pauta.md`](conteudos-pauta.md) — backlog de pautas, prompts de imagem e notas do fluxo de geração.

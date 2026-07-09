@@ -10,6 +10,11 @@ Cada post tem a **sua própria pasta**, com as artes finais numeradas
 | [`carrossel-02-sete-capitulos/`](carrossel-02-sete-capitulos/) | Os 7 capítulos (com fotos) | 10 |
 | [`carrossel-03-cinco-motivos/`](carrossel-03-cinco-motivos/) | 5 motivos para começar agora | 10 |
 
+## Carrosséis premium (dark)
+| Pasta | Post | Slides |
+|---|---|---|
+| [`premium-claude-guia/`](premium-claude-guia/) | Claude — o guia definitivo (dark premium, SVG) | 10 |
+
 ## Pauta (notícias · fundo branco · foto gerada por IA)
 | Pasta | Post | Slides |
 |---|---|---|

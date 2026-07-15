@@ -14,6 +14,7 @@ Cada post tem a **sua própria pasta**, com as artes finais numeradas
 | Pasta | Post | Slides |
 |---|---|---|
 | [`premium-claude-guia/`](premium-claude-guia/) | Claude — o guia definitivo (dark premium, SVG) | 10 |
+| [`premium-chatgpt-work/`](premium-chatgpt-work/) | ChatGPT Work — a central de trabalho (pauta, dark premium) | 9 |
 
 ## Pauta (notícias · fundo branco · foto gerada por IA)
 | Pasta | Post | Slides |

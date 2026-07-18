@@ -6,10 +6,15 @@ feito 100% local (Playwright para o overlay + ffmpeg para a composição).
 
 **Formato:** 1080×1920 (9:16) · ~10,7s · H.264 · **com áudio** · paleta ChapterIA.
 
-## Opções para analisar
-- ✅ **`opcao-A-fullbleed.mp4`** — **ESCOLHIDA.** Vídeo ocupando a tela toda +
-  scrim petróleo + textos por cima (badge, headline, selo exclusivo, CTA). Mais
-  **cinematográfico e imersivo**. (preview: `preview-A.png`)
+## Versão final
+- ⭐ **`opcao-A-animada.mp4`** — **VERSÃO FINAL (texto animado).** Base da opção A
+  full-bleed, com os textos entrando em **fade + slide escalonado** enquanto o
+  Felipe fala: badge (0,4s) → kicker (1,2s) → headline (1,7s) → selo (3,1s) →
+  CTA (4,2s). Áudio original mantido.
+
+## Opções anteriores (referência)
+- ✅ **`opcao-A-fullbleed.mp4`** — opção A com textos fixos (base da versão final).
+  (preview: `preview-A.png`)
 - **`opcao-B-card.mp4`** — vídeo num **card arredondado** em cima, sobre fundo de
   marca (petróleo + grid), textos embaixo. Mais **“designed”/promocional** e
   separa bem vídeo × texto. (preview: `preview-B.png`)

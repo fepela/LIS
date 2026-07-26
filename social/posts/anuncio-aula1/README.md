@@ -13,12 +13,13 @@ preservado (`-c:a copy`, não editado).**
   conteúdo, com fio ciano nas bordas.
 - **Faixa superior (marca):** logo + kicker **CHAPTERIA · AULA 1** + hook
   **"Crie seu primeiro Agente de IA na prática."**
-- **Faixa inferior:** linha de apoio *Do zero ao avançado, com método.* + CTA
-  **Quero começar · link na bio** + **@chapteria**.
-- Texto entra com **fade-in** suave no início; CTA visível o anúncio inteiro.
+- **Faixa inferior:** linha de apoio *Método completo de IA aplicada, do zero ao
+  avançado.* + **preço em destaque: "por apenas R$ 49,90 /mês"**.
+- **Sem botão / sem "link na bio"** — o CTA é inserido pela própria plataforma de
+  anúncios (Meta Ads). Texto entra com **fade-in** suave no início.
 
 ## Observações
-- **Copy do anúncio é facilmente editável** (`build_ad.py`): hook, kicker, CTA.
+- **Copy do anúncio é facilmente editável** (`build_ad.py`): hook, kicker, preço.
   Variações possíveis (mais direto, com preço/oferta, com prova social, etc.).
 - Para Meta Ads, versões mais curtas (15–30s) tendem a performar melhor — dá
   pra cortar um trecho do material e regerar mantendo o mesmo frame de marca.

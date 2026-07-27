@@ -1,10 +1,11 @@
 # Pauta — "O modelo mais forte da Anthropic agora custa metade do preço"
 
-Carrossel premium (dark, paleta ChapterIA: petróleo + ciano) sobre o lançamento do
+Carrossel **editorial claro** (novo padrão): fundo creme + texto petróleo + acento paraquedista, com capa usando a ilustração vintage de ovos. Sobre o lançamento do
 **Claude Opus 5**. Ângulo: o que muda **na prática** (não benchmarks) + a tese de
 que **IA boa está ficando barata**.
 
-**Formato:** 7 slides · 1080×1350 (4:5)
+**Formato:** 7 slides · 1080×1350 (4:5) · **estilo editorial claro (padrão ChapterIA)**
+**Capa:** ilustração `social/referencia/24-claude-opus-5-2-800x450.webp` (ovos formando um “S” — eco do Claude 5) sobre fundo creme, sem emenda.
 **Pilar:** Notícia com aplicação prática · Prioridade máxima (33/35)
 **Fontes:** Anthropic (@claudeai) · TechCrunch · Axios · SiliconANGLE
 **Publicação prevista:** 25/07/2026 (pauta de 24/07/2026)

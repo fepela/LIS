@@ -1,6 +1,6 @@
 # Pauta — "O modelo mais forte da Anthropic agora custa metade do preço"
 
-Carrossel premium (dark, accent laranja = peças de Claude) sobre o lançamento do
+Carrossel premium (dark, paleta ChapterIA: petróleo + ciano) sobre o lançamento do
 **Claude Opus 5**. Ângulo: o que muda **na prática** (não benchmarks) + a tese de
 que **IA boa está ficando barata**.
 
@@ -20,7 +20,7 @@ que **IA boa está ficando barata**.
 
 ## Legenda
 
-O modelo mais forte da Anthropic agora custa metade do preço. 🟠
+O modelo mais forte da Anthropic agora custa metade do preço. 🔷
 
 A Anthropic lançou o Claude Opus 5: um modelo que chega perto da inteligência do topo de linha (o Fable 5) pela metade do custo. É o 4º modelo da linha Claude 5 em menos de 2 meses — a IA saiu dos “grandes lançamentos” para melhorias rápidas em capacidade, custo e velocidade.
 

@@ -8,6 +8,16 @@ um agente de IA. Prioridade máxima (31/35).
 **Fontes:** PropellerAds (comunicado via PR Newswire) · The Agile Brand Guide
 **Publicação prevista:** 25/07/2026 (pauta de 24/07/2026)
 
+
+## Refeito com o skill huashu-design (formato CHAT)
+
+Esta versão foi refeita usando o skill **huashu-design** (método: 3 direções →
+usuário escolhe → executa). Direção escolhida: **"Conversa + toques bold"** —
+todos os 8 slides em formato de **chat** (o usuário pergunta, o agente responde),
+com destaques em petróleo/ciano. É o formato mais alinhado à notícia (rodar
+mídia por conversa). Os números (11× / 2–4×) aparecem num card dentro da conversa,
+e a ressalva do fornecedor num balão à parte.
+
 ## Cuidado editorial (importante)
 Os números (11× mais rápido; 2–4× mais receita) são **dos testes internos da
 própria PropellerAds** — o post os apresenta como **indicativos** (kicker "DO

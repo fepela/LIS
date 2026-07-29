@@ -45,6 +45,12 @@ oportunidade, mas também limites e riscos".
 > Ao publicar o Story 2, adicione o **sticker de enquete nativo** do Instagram
 > sobre a área reservada (opções sugeridas: **Sim** / **Não** — ou "Sim / Não / Depende").
 
+## Vídeo (Stories) — 1080×1920 (9:16) · 22,7s · 30fps
+`video-chatgpt-health-stories.mp4` — tipografia cinética, mesmo roteiro condensado
+(hook → escala → limite/disclaimer → dois lados → pergunta → CTA). Para postar como
+Stories (sequência). **Sem trilha:** adicionar **áudio em alta** no app. Pode combinar
+com o Story de enquete (colar o sticker Sim/Não em cima ou usar como Story seguinte).
+
 ---
 
 ## Legenda (carrossel)

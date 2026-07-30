@@ -5,9 +5,9 @@ online em que um agente autônomo descobre o produto, compara, monta o carrinho 
 Tom de **oportunidade com calma** — vantagem pra quem entende antes, sem "corra ou morra".
 Entrega: **carrossel educativo** (9 slides) + **teaser de Stories** (2 frames).
 
-> **Sem vídeo/Reels curto de propósito.** A nota da pauta diz que este conteúdo
-> depende de contexto e não funciona bem em Reels curto — então não geramos o vídeo
-> cinético desta vez. O teaser de Stories é estático e calmo, só pra levar ao carrossel.
+> **Vídeo (Stories):** a nota da pauta desaconselha Reels curto, mas — a pedido —
+> geramos o vídeo mesmo assim, mantendo o **tom calmo/panorama** (sem "corra ou morra")
+> e destacando a frase compartilhável. Serve pros Stories, como nos posts anteriores.
 
 **Identidade:** editorial em fundo branco — petróleo + acento ciano + marca-texto.
 **Capa com FOTO** (fotorrealista gerada por IA, selo "Imagem ilustrativa · IA"): mãos com
@@ -42,6 +42,11 @@ os dados e pilotos são americanos.
 ## Teaser de Stories — 2 frames · 1080×1920 (9:16)
 `story-1-teaser.png` (frase-chave + foto) · `story-2-cta.png` (leva ao carrossel).
 Estático e calmo (sem trilha/animação). Ideal fixar o carrossel e apontar por aqui.
+
+## Vídeo (Stories) — 1080×1920 (9:16) · 23,7s · 30fps
+`video-comercio-agentico-stories.mp4` — tipografia cinética, roteiro condensado em
+tom calmo (hook → o que é → por que é grande → a virada/frase-chave → ele lê dados →
+contexto honesto → CTA). **Sem trilha:** adicionar **áudio em alta** no app.
 
 **Frase mais compartilhável:** "O seu produto aparece quando o agente do cliente for comprar?"
 

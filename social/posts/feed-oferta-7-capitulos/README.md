@@ -19,8 +19,16 @@ pra respirar (7 capítulos + bônus não cabem legíveis num único quadrado).
    custo-benefício", botão **Comece agora** + *link na bio* + "+ encontros semanais ao
    vivo e comunidade".
 
+## Feed único (post estático) — `feed-unico.png`
+Versão de **um só quadrado** (1080×1080), focada **apenas no curso + CTA** (sem a lista
+dos 7 capítulos). Estrutura: chip MÉTODO COMPLETO · headline "Aprenda IA na prática e
+comece a construir." · subtítulo resumindo o método (agentes, automações, SaaS, conteúdo,
+sites + ao vivo/comunidade) · preço (R$ 49,90/mês · ou R$ 297/ano) · botão **Comece agora**
++ *link na bio* · fecho "Aprenda IA com quem usa IA no dia a dia.". Ideal pra post avulso.
+
 ## Como publicar
-- Suba `01→04.png` como **carrossel** no feed.
+- **Carrossel:** suba `01→04.png` na ordem.
+- **Post único:** use `feed-unico.png` sozinho.
 - O botão "Comece agora" é visual — o clique real vem do **link na bio**.
 
 ## Observações da linha editorial

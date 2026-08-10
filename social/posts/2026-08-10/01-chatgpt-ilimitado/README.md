@@ -1,8 +1,23 @@
-# Pauta 1 — Reel "O ChatGPT grátis ficou ILIMITADO (mas tem pegadinha)"
+# Pauta 1 — "O ChatGPT grátis ficou ILIMITADO (mas tem pegadinha)"
 
-**Formato:** Reel/Stories 9:16 (1080×1920) · ~10,5s · 30fps · **sem áudio** (add trilha no app).
-**Produção:** 100% local (motion graphics HTML/CSS/JS → captura quadro a quadro → ffmpeg).
-**Custo:** **0 créditos.**
+**Entrega:** carrossel de feed com **capa em vídeo** + 4 lâminas brancas + CTA.
+**Custo:** **0 créditos** (100% local: HTML/CSS/JS → captura quadro a quadro → ffmpeg).
+
+## Estrutura do carrossel
+- **01 — Capa (vídeo):** `01-capa-reel.mp4` — 9:16 (1080×1920), ~10,5s, 30fps, sem áudio.
+  Tela de ChatGPT recriada e animada + lettering nosso (ver "Capa animada" abaixo).
+  Serve também como **Reel/Stories** avulso.
+- **02 — O que mudou:** `02.png` — ilimitado no Free/Go + GPT-5.6 Luna (stat 10 → ∞).
+- **03 — A pegadinha:** `03.png` — ilimitado é só texto (upload/imagem/voz seguem com limite).
+- **04 — E melhorou:** `04.png` — botão "Think" + **−62%** de erros (rollout ~13/08).
+- **05 — CTA:** `05.png` — convite pra conhecer a ChapterIA · **link na bio**.
+
+> Lâminas 02–05 em **4:5 (1080×1350)**, fundo branco editorial (petróleo + ciano),
+> ícones e stats. Capa em 9:16. Se quiser o carrossel 100% consistente em 4:5,
+> eu gero um corte 4:5 da capa animada.
+
+## Capa animada (01) — detalhes
+**Formato:** 9:16 (1080×1920) · ~10,5s · 30fps · **sem áudio** (add trilha no app).
 
 ## Conceito (padrão novo: produto real de fundo + lettering nosso)
 Recriação **animada e fiel** de uma tela de ChatGPT (dark, modelo **GPT-5.6 Luna**,

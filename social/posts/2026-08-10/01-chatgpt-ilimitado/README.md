@@ -3,7 +3,13 @@
 **Entrega:** carrossel de feed com **capa em vídeo** + 4 lâminas brancas + CTA.
 **Custo:** **0 créditos** (100% local: HTML/CSS/JS → captura quadro a quadro → ffmpeg).
 
-## Estrutura do carrossel
+## ⭐ Reel único (recomendado) — `reel-unico-completo.mp4`
+Tudo num só vídeo **9:16 · ~22,4s · 30fps · sem áudio**: capa animada (8s) +
+as 4 lâminas **animadas** (entrada de ícone, headline em blocos, stats contando,
+−62% e 10→∞) emendadas com **crossfades** de 0,4s. Resolve a proporção (um Reel só)
+e é o formato mais forte pra Reels/Stories. Custo **0 créditos**.
+
+## Estrutura do carrossel (alternativa em imagens estáticas)
 - **01 — Capa (vídeo):** `01-capa-reel.mp4` — 9:16 (1080×1920), ~10,5s, 30fps, sem áudio.
   Tela de ChatGPT recriada e animada + lettering nosso (ver "Capa animada" abaixo).
   Serve também como **Reel/Stories** avulso.

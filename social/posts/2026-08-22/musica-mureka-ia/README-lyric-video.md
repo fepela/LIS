@@ -1,6 +1,7 @@
 # Lyric Video — "Próximo Capítulo" (música feita com Mureka.ai)
 
-**Entrega:** `lyric-video-completo.mp4` · 9:16 · **3:27 (207s)** · 30fps · **COM ÁUDIO** (a faixa inteira).
+**Entrega:** `lyric-video-completo.mp4` · 9:16 · **3:45 (225s)** · 30fps · **COM ÁUDIO** (a faixa inteira).
+**Áudio:** `social/referencia/musica.MP3` (versão final da faixa).
 **Produção:** 100% local (HTML/CSS/JS → captura quadro a quadro → ffmpeg). **Custo: 0 créditos.**
 
 > Duração passa do limite de Reel (~90s). Este corte é para **YouTube, comunidade e Stories em série**.
@@ -13,19 +14,21 @@ aparece **sincronizada com o canto**, e cada bloco da música ganha uma **cena g
 que brinca com o que está sendo dito. Os clipes de `/tocando/` deixaram de ser o fundo o tempo
 todo e passaram a entrar **pontualmente**, nos momentos de mais energia.
 
-## Como a sincronia foi feita (sem ASR)
+## Como a sincronia foi feita
 
-Não há transcritor de áudio neste ambiente — e transcrever canto em português daria erro. Então
-a sincronia foi construída a partir da **própria faixa**:
+A marcação de tempo veio **do cliente**, bloco a bloco (a cada 10–12s da faixa). Dentro de
+cada bloco os versos são distribuídos por **peso silábico** — verso longo ocupa mais tempo —
+com um teto por verso para que os gritos curtos não estiquem. Quando o teto deixa uma sobra,
+ela vira respiro instrumental em vez de texto parado na tela.
 
-1. **Análise espectral** do MP3 (FFT, janela 2048) → envelope de energia (RMS) e energia de
-   banda vocal (300–3500 Hz), quadro a quadro.
-2. **Detecção das viradas de seção** pelos degraus de energia — os pontos são reais, medidos:
-   queda nítida em **65,5s** (entra o verso 2 desacompanhado), retorno da banda em **77,5s**,
-   respiro instrumental em **128–133,5s**, queda da ponte em **133,5s**.
-3. **Tempo detectado: ~129,2 BPM** (autocorrelação do fluxo espectral) → grade de compassos.
-4. Dentro de cada seção, os versos são distribuídos por **peso silábico** (verso longo ocupa
-   mais tempo) e **encaixados na grade de batidas**.
+A faixa tem **30 segundos de introdução instrumental** antes do primeiro verso. Esse trecho
+ganhou uma abertura própria: lockup da marca, depois duas cartelas explicando o que é a peça,
+e um convite pra subir o som — tudo sobre o b-roll respirando.
+
+> **Nota de versão:** a primeira montagem usou `0822.MP3` (3:27) e a sincronia foi estimada por
+> análise espectral (FFT + detecção de andamento), já que não há transcritor de áudio neste
+> ambiente. Com a faixa final (`musica.MP3`, 3:45) e os tempos informados pelo cliente, essa
+> estimativa foi substituída pela marcação real.
 
 ### Ajuste fino da letra
 
@@ -37,7 +40,7 @@ me devolva o arquivo: eu re-renderizo com a sua marcação exata.
 
 | Trecho | Cena |
 |---|---|
-| **0–3s** · abertura | Lockup `chapterIA` + "PRÓXIMO CAPÍTULO" sobre o b-roll |
+| **0–30s** · abertura | Lockup `chapterIA` + cartelas de contexto sobre o b-roll |
 | **Verso 1** | Letra em karaokê (rolagem) + janela de terminal em "uma máquina do seu lado" |
 | | Chips **criar · construir · transformar** acendendo em sequência |
 | **Pré-refrão** | Verso solo, grande e centralizado — quebra de ritmo |
@@ -45,7 +48,7 @@ me devolva o arquivo: eu re-renderizo com a sua marcação exata.
 | **Verso 2** | Chips **agentes · negócios · automações · conteúdo · produtos** |
 | | **Gráfico dos 7 capítulos** — sete barras preenchendo em "São sete capítulos na prática" |
 | **Pré-refrão 2** | Contraste **✕ promessa** / **✓ projeto de pé** |
-| **128–133,5s** | Respiro instrumental — b-roll quase limpo, só waveform |
+| **respiros** | Sobras entre blocos — b-roll quase limpo, só waveform |
 | **Ponte** | Tom mais baixo, alternativas fantasma ("um freela", "uma nova profissão"...) |
 | **Refrão final** | Energia máxima, tudo ligado |
 | **Final** | Cartelas curtas + lockup da marca + "começa agora" |
@@ -74,6 +77,7 @@ Salva pra fazer o seu. 👇
 
 ---
 
-> Música e letra: ChapterIA (composição feita no Mureka.ai). B-roll: assets do cliente em
+> Música e letra: ChapterIA (composição feita no Mureka.ai; faixa final `musica.MP3`).
+> B-roll: assets do cliente em
 > `social/referencia/tocando/` (visual gerado por IA). Tipografia **Poppins** (stand-in).
 > Paleta oficial: petróleo `#1A334A` · paraquedista `#18A3B7` · ciano `#27E6EC`.

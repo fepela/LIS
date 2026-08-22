@@ -1,22 +1,25 @@
 # Reel + Anúncio — Série ao vivo "Renda extra com IA" (Capítulo 1 no ar)
 
-**Entrega:** `reel-serie-renda-extra.mp4` · 9:16 · **39,5s** · 30fps · **sem áudio**.
+**Entrega:** `reel-serie-renda-extra.mp4` · 9:16 · **40s** · 30fps · **com áudio parcial**.
 **Produção:** 100% local (HTML/CSS/JS → captura quadro a quadro → ffmpeg). **Custo: 0 créditos.**
 **Uso:** Reel orgânico **e** criativo de tráfego pago (Meta Ads).
 
-> Sem trilha embutida de propósito: no orgânico dá pra usar áudio em alta do Instagram; no
-> anunciado, use uma faixa licenciada (ou a nossa, feita no Mureka.ai).
+> **Áudio:** a peça é silenciosa, exceto **20,5s–24,5s**, onde entra a voz da influenciadora
+> (4s de `influenciadora.mp4`, com fade). O resto do leito é silêncio — no orgânico dá pra
+> somar áudio em alta do Instagram; no anunciado, uma faixa licenciada (ou a nossa, do Mureka.ai).
 
-## Estrutura (6 lâminas)
+## Estrutura (8 lâminas)
 
 | Tempo | Lâmina |
 |---|---|
-| 0–7s | **Capa:** "Uma renda extra com IA, construída em público." + trilha de 5 capítulos, o 1º aceso |
-| 7–13,5s | **Capítulo 1:** o plano — plano estratégico, estudo de mercado, a conta aberta |
-| 13,5–19,5s | **A meta:** construir uma renda extra mensal do zero + **bloco de transparência** |
-| 19,5–28s | **Como:** os três serviços — Social Media · Influenciador digital · Sites |
-| 28–34s | **Próximo capítulo:** criar a empresa (nome, logo, site, Instagram) → campanhas → 1º cliente |
-| 34–39,5s | **CTA:** foto de estúdio + "Está na comunidade ChapterIA · link na bio" |
+| 0–6s | **Capa:** "Uma renda extra com IA, construída em público." + trilha de 5 capítulos, o 1º aceso |
+| 6–11,5s | **Capítulo 1:** o plano — plano estratégico, estudo de mercado, a conta aberta |
+| 11,5–17s | **A meta:** construir uma renda extra mensal do zero + **bloco de transparência** |
+| 17–20,5s | **Como:** os três serviços em chips — Social Media · Influenciador digital · Sites |
+| **20,5–24,5s** | **Influenciadora em tela cheia, COM ÁUDIO** (`influenciadora.mp4`, 4s), selo "persona criada com IA" |
+| **24,5–29,5s** | **Sites** — trecho de `sites.mp4` enquadrado no mockup, selo "entregues para clientes" |
+| 29,5–35s | **Próximo capítulo:** criar a empresa (nome, logo, site, Instagram) → campanhas → 1º cliente |
+| 35–40s | **CTA:** foto de estúdio + "Está na comunidade ChapterIA · link na bio" |
 
 ## Conformidade com as políticas do Meta Ads
 
@@ -32,21 +35,25 @@ Esta peça foi montada para passar na revisão de anúncios. As decisões:
 4. **Sem "fácil", "rápido" ou "garantido".** Sem imagens de dinheiro, antes/depois ou ostentação.
 5. **Sem propriedade intelectual de terceiros.** A lâmina de "Sites" é uma **recriação em CSS**
    com cliente fictício (*Casa Verde · Paisagismo*), não uma captura de site real.
-6. **Persona de IA rotulada** — o card de influenciador traz o selo "persona criada com IA".
+6. **Persona de IA rotulada** — a lâmina da influenciadora traz o selo "persona criada com IA"
+   em tela, durante todo o trecho.
 
-### Assets: o que foi trocado e por quê
+### Assets
 
-O briefing pedia `/referencia/modelo.mp4` e `/referencia/site.mp4`. Nenhum dos dois existe no
-repositório. Foi usado:
+- **Influenciador digital →** `social/referencia/influenciadora.mp4`, **primeiros 4s com áudio**,
+  em tela cheia, com selo "persona criada com IA".
+- **Sites →** `social/referencia/sites.mp4`, trecho de **1,0s a 6,0s**, recortado no mockup
+  (`crop=720:480:0:420`).
+- **Social Media →** nomeado nos chips (não há asset de vídeo para este pilar).
 
-- **Influenciador digital →** `social/referencia/modelo.png`, rotulada como persona criada com IA.
-- **Sites →** recriação em CSS, **não** o `Claude Code - Site.mp4`.
-
-> **Por que o `Claude Code - Site.mp4` ficou de fora:** é um clone da FutFanatics rodando em
-> `localhost`, com Messi e Neymar, escudos de federações e logos de Nike/adidas. Como material
-> de aula, ótimo. Como criativo pago, acumula três riscos: marca de terceiro, direito de imagem
-> de figura pública (art. 20 do Código Civil) e uso não autorizado de pessoa pública em anúncio —
-> caminho curto para reprovação e restrição de conta.
+> **Por que só o trecho 1–6s do `sites.mp4`:** o vídeo tem duas janelas com marca de terceiro —
+> **Avatar/Netflix em 9–10s** e **Tesla/Optimus em 18–25s**. O trecho usado fica na faixa limpa
+> (imobiliária MYHOUSE → "Future of Payments" → ZENITH), toda de marcas fictícias. Assim a peça
+> mostra o vídeo pedido sem carregar IP de terceiro para dentro de um anúncio pago.
+>
+> Pelo mesmo motivo ficaram de fora o `Claude Code - Site.mp4` (clone da FutFanatics com Messi,
+> Neymar, Nike e adidas) e o `Video.mp4` (vídeo de outro criador, com rosto de terceiro sem
+> cessão, além de Tesla e Avatar/Netflix).
 
 ## Legenda sugerida (orgânico)
 
@@ -79,6 +86,6 @@ Esta é a nossa meta, não uma promessa: resultados não são garantidos e depen
 
 ---
 
-> Foto de estúdio: Felipe (real, sem selo de recriação). Card de influenciador: `modelo.png`,
-> rotulado. Card de sites: recriação ilustrativa em CSS, cliente fictício.
+> Foto de estúdio: Felipe (real, sem selo de recriação). Influenciadora: asset próprio, rotulado.
+> Sites: trecho próprio, faixa sem marca de terceiro.
 > Tipografia **Poppins** (stand-in). Paleta oficial: `#1A334A` · `#18A3B7` · `#27E6EC`.

@@ -12,7 +12,7 @@
 
 | Tempo | Lâmina |
 |---|---|
-| 0–6s | **Capa:** "Uma renda extra com IA, construída em público." + trilha de 5 capítulos, o 1º aceso |
+| 0–6s | **Capa:** take do Felipe em estúdio ao fundo (`VIDEO NOSSO.mp4`, 0,5–5,5s em leve slow motion) + headline e trilha de 5 capítulos no terço inferior |
 | 6–11,5s | **Capítulo 1:** o plano — plano estratégico, estudo de mercado, a conta aberta |
 | 11,5–17s | **A meta:** construir uma renda extra mensal do zero + **bloco de transparência** |
 | 17–20,5s | **Como:** os três serviços em chips — Social Media · Influenciador digital · Sites |
@@ -45,6 +45,9 @@ Esta peça foi montada para passar na revisão de anúncios. As decisões:
 - **Sites →** `social/referencia/sites.mp4`, trecho de **1,0s a 6,0s**, recortado no mockup
   (`crop=720:480:0:420`).
 - **Social Media →** nomeado nos chips (não há asset de vídeo para este pilar).
+- **Capa →** `social/referencia/VIDEO NOSSO.mp4`, trecho **0,5s a 5,5s**, reamostrado para cobrir
+  os 6s da capa (≈0,83x, slow motion sutil) e com push-in leve. Evita a faixa **5–7s**, em que
+  o Felipe cobre o rosto com as mãos — leitura estranha sob uma headline.
 
 > **Por que só o trecho 1–6s do `sites.mp4`:** o vídeo tem duas janelas com marca de terceiro —
 > **Avatar/Netflix em 9–10s** e **Tesla/Optimus em 18–25s**. O trecho usado fica na faixa limpa

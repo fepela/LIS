@@ -3,9 +3,9 @@
 Selecionadas via MCP do Unsplash em 02/09/2026. **Baixar e colocar em
 `social/referencia/unsplash/` com o nome indicado** — depois eu componho nas lâminas.
 
-> **Por que manual:** a busca do MCP funciona, mas o download é bloqueado no ambiente.
-> `images.unsplash.com` está fora do allowlist do proxy (403 no curl, tunnel failed no Chromium).
-> Liberando esse domínio, eu passo a baixar e compor sem passo manual.
+> **RESOLVIDO em 02/09.** `images.unsplash.com` foi liberado no allowlist do ambiente `ChapterIA`
+> e o download passou a funcionar na mesma sessão, sem reinício. As nove fotos já estão aplicadas
+> no carrossel — este arquivo fica como registro da curadoria e dos créditos.
 
 ## Seleção
 
@@ -19,8 +19,9 @@ Selecionadas via MCP do Unsplash em 02/09/2026. **Baixar e colocar em
 | `mic-03.jpg` | 06 · Roadrunner | Microfone de podcast em braço articulado | Jukka Aalho | https://unsplash.com/photos/black-and-silver-microphone-with-stand-OaPksPcVp50 |
 | `projetor-01.jpg` | 02 · o critério | Projetor em foco raso | Hermes Rivera | https://unsplash.com/photos/shallow-photography-of-camera-HdgB6VyjK70 |
 
-**Ainda faltam duas buscas** (peço quando você quiser): TV antiga para a lâmina 07
-(*Late Night with the Devil*) e estúdio de dublagem/fones para a lâmina 10 (ângulo brasileiro).
+**Completadas depois:** `tv.jpg` (cshong) para a lâmina 07 e `fones.jpg` (Sebastian Banasiewcz)
+para a lâmina 10. Total aplicado: **nove fotos em nove das onze lâminas** — as lâminas 08
+(desmentidos) e 11 (CTA) ficaram sem foto de propósito, para dar respiro antes do fechamento.
 
 ## Licença e créditos
 
@@ -34,6 +35,15 @@ A licença do Unsplash **permite uso comercial e não exige atribuição**, mas:
 justo e barato dar):
 - `mic-03.jpg` — *"Image: Jukka Aalho / Kertojan ääni"*
 - o projetor de Travis Johansen (não selecionado acima) pede crédito a providfilms.com
+
+## Tratamento aplicado
+
+Cada foto entra em tela cheia com `grayscale(.42) contrast(1.06) brightness(.92)` e uma camada
+de tinta petróleo + brilho ciano no topo. Isso faz fotos de origens diferentes lerem como uma
+peça só, dentro da paleta, sem competir com a tipografia.
+
+O crédito vai na borda direita, na vertical. Não é exigido pela licença — é cortesia com quem
+fotografou, e custa nada.
 
 ## Como isso entra na arte
 

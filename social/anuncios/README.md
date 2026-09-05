@@ -1,6 +1,9 @@
 # Anúncios — ChapterIA
 
-Criativos de tráfego pago. Um por aula, mais um guarda-chuva.
+Criativos de tráfego pago: oito vídeos (um por aula, mais um guarda-chuva) e um
+conjunto de estáticos da oferta.
+
+## Vídeos
 
 | Pasta | Chamada | Duração |
 |---|---|---|
@@ -13,7 +16,13 @@ Criativos de tráfego pago. Um por aula, mais um guarda-chuva.
 | `aula7` | Crie **sites e apresentações** com IA | 22s |
 | `geral` | Aprenda IA aplicada, do **zero ao avançado** | 104s |
 
-## O formato
+## Estáticos
+
+| Pasta | Peças |
+|---|---|
+| `oferta-7-capitulos` | carrossel de 4 quadrados, feed único e story da oferta |
+
+## O formato dos vídeos
 
 **1080×1920 · 30fps · H.264 · áudio original copiado sem reencode.**
 

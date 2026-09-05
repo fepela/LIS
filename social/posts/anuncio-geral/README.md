@@ -26,3 +26,21 @@ Faixa inferior traz **de ~~R$ 99,90~~ por R$ 49,90**, com a linha
 mas isso fica para a página de vendas, não para a arte.
 
 **Sem botão e sem "link na bio"** — o CTA é inserido pela própria plataforma de anúncios.
+
+## Zonas de segurança (Reels / Stories)
+
+Layout reposicionado em 05/09/2026 depois que o preço apareceu na faixa coberta pela UI.
+
+| Elemento | Posição | Observação |
+|---|---|---|
+| Topo 0–14% (0–269px) | **vazio** | barra de UI do Reels |
+| Logo | y 196 | abaixo da barra superior |
+| Kicker + chamada | y 290–576 | |
+| **Faixa de vídeo** | **y 604–1212** (1080×608) | material 16:9 sem corte |
+| **Preço** | **y 1240–1490** | logo abaixo do vídeo |
+| Base 21% (1517–1920px) | **vazio** | legenda, áudio e CTA do Meta |
+| Coluna direita 8% | **vazia** | botões de ação |
+
+A linha de apoio *"Método completo de IA aplicada, do zero ao avançado"* **saiu da arte** — era
+ela que empurrava o preço para a zona coberta. Esse texto vai no campo de texto do anúncio,
+que é onde o Meta já o exibe.

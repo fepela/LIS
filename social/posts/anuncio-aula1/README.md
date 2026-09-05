@@ -14,7 +14,7 @@ preservado (`-c:a copy`, não editado).**
 - **Faixa superior (marca):** logo + kicker **CHAPTERIA · AULA 1** + hook
   **"Crie seu primeiro Agente de IA na prática."**
 - **Faixa inferior:** linha de apoio *Método completo de IA aplicada, do zero ao
-  avançado.* + **preço em destaque: "por apenas R$ 49,90 /mês"**.
+  avançado.* + **preço em destaque: de ~~R$ 99,90~~ por R$ 49,90**.
 - **Sem botão / sem "link na bio"** — o CTA é inserido pela própria plataforma de
   anúncios (Meta Ads). Texto entra com **fade-in** suave no início.
 
@@ -24,6 +24,16 @@ preservado (`-c:a copy`, não editado).**
 - Para Meta Ads, versões mais curtas (15–30s) tendem a performar melhor — dá
   pra cortar um trecho do material e regerar mantendo o mesmo frame de marca.
 - Respeita safe zones (texto recuado da direita; CTA acima do rodapé).
+
+## Oferta na arte (atualizada em 05/09/2026)
+
+Faixa inferior traz **de ~~R$ 99,90~~ por R$ 49,90**, com a linha
+*em até 9x de R$ 6,71 · ou à vista no Pix*.
+
+**Sem período no preço** — não há "/mês" nem "/ano". A oferta inclui acesso por 12 meses,
+mas isso fica para a página de vendas, não para a arte.
+
+**Sem botão e sem "link na bio"** — o CTA é inserido pela própria plataforma de anúncios.
 
 ---
 

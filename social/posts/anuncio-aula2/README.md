@@ -13,3 +13,13 @@ transformado em Reels 9:16 com a identidade da marca (mesmo tratamento do Aula 1
 - **Sem botão / sem "link na bio"** — CTA inserido pela plataforma de anúncios.
 
 > Arte em **Poppins** (stand-in) — arte final oficial em **Google Sans**.
+
+## Oferta na arte (atualizada em 05/09/2026)
+
+Faixa inferior traz **de ~~R$ 99,90~~ por R$ 49,90**, com a linha
+*em até 9x de R$ 6,71 · ou à vista no Pix*.
+
+**Sem período no preço** — não há "/mês" nem "/ano". A oferta inclui acesso por 12 meses,
+mas isso fica para a página de vendas, não para a arte.
+
+**Sem botão e sem "link na bio"** — o CTA é inserido pela própria plataforma de anúncios.

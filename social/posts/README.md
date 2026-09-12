@@ -24,6 +24,8 @@ Cada post tem a **sua própria pasta**, com as artes finais numeradas
 | [`pauta-03-samsung-infra/`](pauta-03-samsung-infra/) | Samsung e os bastidores da IA | 6 |
 | [`pauta-04-deepmind-etica/`](pauta-04-deepmind-etica/) | DeepMind, ética e o filósofo | 7 |
 | [`pauta-05-microsoft-carreira/`](pauta-05-microsoft-carreira/) | Microsoft, IA e carreira | 6 |
+| [`pauta-opus5-metade-preco/`](pauta-opus5-metade-preco/) | Claude Opus 5 — metade do preço | 8 |
+| [`pauta-gpt6-astra-leitura-honesta/`](pauta-gpt6-astra-leitura-honesta/) | GPT‑6 Astra — como ler um anúncio de IA | 9 |
 
 ## Outros
 - [`biblioteca-legendas/`](biblioteca-legendas/) — bancos de legenda para Instagram e LinkedIn.
